@@ -97,11 +97,4 @@ Use the following paramaters at the infeed cell to tweak the load betweeen infee
 ```
 ## Authors and acknowledgment
 Timo Thans
-```
-t.thans@primevision.com
-+484 828 2357
-```
-Brandon Kelly
-```
-b.kelly@primevision.com
-```
+
